@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijalpratama23" alt="rijalpratama23" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://rijalpratama23.github.io/Portofolio-HitamPutih-Latihan-2024)
+- 🔭 I’m currently working on [Portfolio](https://rijalpratama23.github.io/rijalPratama_Portofolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
