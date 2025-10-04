@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 [![Rijal GitHub stats](https://github-readme-stats.vercel.app/api?username=Rijalpratama23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![I'm happy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFndmhhMjk0cWJuanNybjRnenI4bnU2bmk1NXZyaTh4ZDAwM2h5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
+
+### ===== Keep Strong🔥🔥🔥 =====
