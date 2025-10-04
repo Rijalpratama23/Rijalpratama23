@@ -1,6 +1,6 @@
-## Hi there, I'M Rijal Pratama 👋
+## Hi there, I'M Rijal Pratama 👋🧑‍💻
 
-![Rijal Pratama](img/bggithub.jpeg)
+![Rijal Pratama](img/github-header-banner.png)
 
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ⚡ Fun fact: **Stir the porridge team**
+- 🌱 I’m currently learning [ReactJs](https://react.dev/) & [TaillwindCss](https://tailwindcss.com/)
 
 ![I'm happy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFndmhhMjk0cWJuanNybjRnenI4bnU2bmk1NXZyaTh4ZDAwM2h5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
