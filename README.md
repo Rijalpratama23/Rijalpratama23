@@ -1,6 +1,6 @@
 ## Hallo Everyone, I'M Rijal Pratama 👋🧑‍💻
 
-![Rijal Pratama](img/github-header-banner.png)
+![Rijal Pratama](img/github-header-banner%20(1).png)
 
 
 <!--
