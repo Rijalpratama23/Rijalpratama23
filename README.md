@@ -1,4 +1,4 @@
-## Hi there, I'M Rijal Pratama 👋🧑‍💻
+## Hallo Everyone, I'M Rijal Pratama 👋🧑‍💻
 
 ![Rijal Pratama](img/github-header-banner.png)
 
