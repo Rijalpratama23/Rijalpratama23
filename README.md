@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Fun fact: **Stir the porridge team**
-- 🌱 I’m currently learning [ReactJs](https://react.dev/) & [TaillwindCss](https://tailwindcss.com/)
 - 😎
 
 ##### ~ My Skills ~
